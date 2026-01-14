@@ -1,0 +1,45 @@
+# Key Insights – Government Commodity Price Analysis
+
+## Insight 1: High-Value Commodities
+Spices and premium commodities such as cumin seed have significantly higher average modal
+prices compared to vegetables, indicating higher market value and stronger demand.
+
+---
+
+## Insight 2: Regional Price Differences
+Average commodity prices vary considerably across states, suggesting regional
+supply-demand imbalances, transportation costs, and differences in market access.
+
+---
+
+## Insight 3: Price Volatility
+Certain commodities show high price volatility, as reflected by large differences between
+minimum and maximum prices. These commodities carry higher income risk for farmers
+and higher trading risk for businesses.
+
+---
+
+## Insight 4: Seasonal Trends
+Monthly trend analysis reveals noticeable price fluctuations over time, indicating
+seasonality in agricultural commodity prices influenced by harvest cycles and demand patterns.
+
+---
+
+## Insight 5: Market-Level Pricing
+Some mandis consistently report higher average prices, likely due to stronger buyer presence,
+better infrastructure, or proximity to urban centers. These markets can offer better returns
+to farmers.
+
+---
+
+## Insight 6: Price Stability vs Risk
+Staple commodities tend to have more stable prices, making them lower-risk options,
+while premium and specialty commodities exhibit higher volatility, offering higher
+returns but increased risk.
+
+---
+
+## Overall Conclusion
+The analysis demonstrates that agricultural commodity prices are influenced by commodity type,
+region, seasonality, and market characteristics. These insights can support better decision-making
+for farmers, traders, and policymakers by balancing profitability, risk, and market access.

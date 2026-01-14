@@ -1,0 +1,52 @@
+# Business Questions – Government Commodity Price Analysis
+
+## Objective
+The objective of this project is to analyze government mandi (market) price data to
+understand commodity pricing trends, regional differences, and price volatility.
+The analysis aims to derive insights that can support farmers, traders, and policymakers
+in making data-driven decisions.
+
+---
+
+## Business Questions
+
+### Q1. Which commodities have the highest average modal price?
+- Identify high-value commodities across markets.
+- Helps understand which commodities generate higher revenue potential.
+
+---
+
+### Q2. How do average commodity prices vary across states?
+- Analyze regional price differences.
+- Helps identify states with higher or lower average pricing, indicating supply-demand imbalance.
+
+---
+
+### Q3. Which commodities show the highest price volatility?
+- Measure risk by analyzing the difference between minimum and maximum prices.
+- Helps identify commodities with unstable pricing.
+
+---
+
+### Q4. What is the monthly price trend of commodities over time?
+- Analyze how prices change month by month.
+- Helps identify seasonality and time-based patterns in commodity prices.
+
+---
+
+### Q5. Which markets (mandis) are consistently expensive?
+- Identify mandis that regularly report higher prices.
+- Useful for farmers when deciding where to sell their produce.
+
+---
+
+### Q6. Which commodities have stable prices versus highly volatile prices?
+- Categorize commodities based on price stability.
+- Helps balance risk and return for farmers and traders.
+
+---
+
+## Expected Outcome
+The analysis will highlight high-value commodities, regional price disparities,
+seasonal trends, market-level pricing behavior, and price stability,
+providing actionable insights for agricultural stakeholders.
