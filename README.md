@@ -87,5 +87,5 @@ The dataset includes:
 
 ## Contact
 **Tushar Singh Chauhan**  
-Email: your-email@example.com  
-LinkedIn: your-linkedin-profile  
+Email: tusharsinghchauhan0909@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tushar-singh-chauhan/  
